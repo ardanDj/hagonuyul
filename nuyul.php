@@ -1,4 +1,5 @@
 <?php
+// Putra Ganteng Banget
 // Ganti Copyright = Emak U Perawan, U Anak Siapa?
 function hago($id){
 	$ch = curl_init();
